@@ -8,7 +8,11 @@ Module 1 (likelihood) [![Open In Colab](https://colab.research.google.com/assets
 - Deep Autoregressive model in 2D
 - Detaled study of RealNVP model in 2D 
 
-Module 2 (latent variable models)
+Module 2 (latent variable models) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexeyZhuravlev/Generative-Models-Seminars-MIPT/blob/master/module2-vae/module2_latent_variable_models.ipynb)
+- VAE on 2D data
+- investigation of posterior collapse situations
+- VAE on image data
+
 
 Module 3 (generative adversarial networks)
 
