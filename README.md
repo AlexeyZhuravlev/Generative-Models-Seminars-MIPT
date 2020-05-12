@@ -14,7 +14,7 @@ Module 2 (latent variable models) [![Open In Colab](https://colab.research.googl
 - VAE on image data
 
 
-Module 3 (generative adversarial networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexeyZhuravlev/Generative-Models-Seminars-MIPT/blob/master/module3-gan/module3_gans.ipyng)
+Module 3 (generative adversarial networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexeyZhuravlev/Generative-Models-Seminars-MIPT/blob/master/module3-gan/module3_gans.ipynb)
 - GAN Loss and Non-saturating Loss on 1D data
 - SNGAN on CIFAR10
 - BiGAN on MNIST
